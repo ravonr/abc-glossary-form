@@ -1,6 +1,7 @@
 body {
     background-color: black;
     color: white;
+    font-family: 'Cormorant Garamond', serif;
 }
 h1 {
 text-align: center;
@@ -34,7 +35,7 @@ label {
 }
 fieldset {
     border: none;
-    padding: 2em;
+    padding: 2em 0;
     border-bottom: 1px solid #fff;
 }
 fieldset:last-of-type {
@@ -46,4 +47,5 @@ input[type=submit] {
     margin: 1em auto;
     font-size: 17px;
     max-width: 300px;
+    font-family: 'Cormorant Garamond', serif;
 }
