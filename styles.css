@@ -16,8 +16,8 @@ text-align: center;
 }
 h1, p {
     margin: 1em auto;
-    max-width: 500px;
-    padding: 0 20px 0;
+    max-width: 100%;
+    padding: 0 130px 0;
 }
 form {
     width: 60vw;
