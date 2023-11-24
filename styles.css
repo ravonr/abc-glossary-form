@@ -1,8 +1,16 @@
+html {zoom: 160%;}
 body {
     background-color: black;
     color: white;
     font-family: 'Cormorant Garamond', serif;
 }
+a {
+    color: #4749AE;
+    text-decoration: none;
+}
+a:visited {
+    color: #4749AE;
+  }
 h1 {
 text-align: center;
 }
@@ -26,6 +34,7 @@ input, textarea, select {
     border: 1px solid #fff;
     background-color: #000;
     color: #67d496;
+    font-family: 'Cormorant Garamond', serif;
     border-radius: 16px;
     box-sizing: border-box;
 }
