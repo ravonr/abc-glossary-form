@@ -8,11 +8,11 @@ body {
     font-family: 'Cormorant Garamond', serif;
 }
 a {
-    color: #4749AE;
+    color: #2b20fc;
     text-decoration: none;
 }
 a:visited {
-    color: #4749AE;
+    color: #2b20fc;
   }
 h1 {
 text-align: center;
@@ -37,7 +37,7 @@ input, textarea, select {
     padding: 10px 20px;
     border: 1px solid #fff;
     background-color: #000;
-    color: #67d496;
+    color: #ffb85b;
     font-family: 'Cormorant Garamond', serif;
     border-radius: 16px;
     box-sizing: border-box;
